@@ -35,8 +35,6 @@ A aplicação consistiu em criar um site de animes, com 5 paginas principais:
 #clonar repositório
 https://github.com/bmloredo/Animes
 
-#entrar na pasta do projeto
-cd anime
 
 #executar o projeto
 1 - npm install
